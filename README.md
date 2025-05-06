@@ -29,6 +29,13 @@ Collaboration & Docs
 </p>
 
 ## 🖇 Project
+
+### 자율주행 정찰 로봇
+이 프로젝트는 영상/음성/딥러닝 기반 기술을 활용해 자율 순찰 및 위험 상황 인식이 가능한 스마트 로봇 시스템을 개발한 4인 팀 프로젝트입니다.
+
+
+
+
 <!--
 **LeeMyungwoon/LeeMyungwoon** is a :반짝임: _special_ :반짝임: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
