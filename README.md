@@ -2,6 +2,8 @@
 #### Robotics Software Engineer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mu7625)](https://solved.ac/mu7625/)
 ## 🔭 About Me
+💡 "Technology should serve humanity, not the other way around"
+
 로봇이 세상을 이해하고 스스로 판단할 수 있도록 만드는 개발자를 꿈꿉니다.
 더 나은 일상과 더 똑똑한 세상을 만드는 데 기여하고 싶습니다.
 ## 🛠 Tech Stack
